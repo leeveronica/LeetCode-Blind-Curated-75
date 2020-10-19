@@ -1,5 +1,7 @@
 # Leetcode
 
+Curated list of top 75 [LeetCode](https://leetcode.com/list/xoqag3yj/) questions, originally posted by Facebook tech lead OP at [Blind](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) and my version of solution.
+
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[Python3](./solutions)| ms|
